@@ -2,7 +2,7 @@
     color: rgb(0, 0, 0);
     display: grid;
     grid-template-columns: 1fr auto 1fr;
-    padding: 92px 50px 92px 50px;
+    padding: 92px 47px 92px 50px;
     justify-content: space-between;
     align-items: center;
 }
@@ -208,7 +208,7 @@
     position: relative;
     z-index: 2;
     text-decoration: underline;
-    text-underline-offset: 3px;
+    text-underline-offset: 2px;
     text-decoration-skip-ink: none;
     text-decoration-thickness: 1px;
     font-weight: 700;
@@ -283,7 +283,7 @@
     font-size: 20px;
     line-height: 1.2;
     display: grid;
-    row-gap: 25px;
+    row-gap: 26px;
 }
 
 .footer {
